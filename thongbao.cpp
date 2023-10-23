@@ -7,11 +7,4 @@ int main() {
 
   cout << "Hello World!";
   return 0;
-
-  cout << "H32!";
-  return 0;
-
-  cout << "Hma!";
-  return 0;
-
 }
