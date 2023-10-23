@@ -11,4 +11,7 @@ int main() {
   cout << "H!";
   return 0;
 
+  cout << "Hmain!";
+  return 0;
+
 }
