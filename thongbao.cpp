@@ -8,7 +8,7 @@ int main() {
   cout << "Hello World!";
   return 0;
 
-  cout << "Hello!";
+  cout << "H!";
   return 0;
 
 }
