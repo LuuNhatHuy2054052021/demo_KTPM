@@ -11,7 +11,7 @@ int main() {
   cout << "H32!";
   return 0;
 
-  cout << "Hmain!";
+  cout << "Hma!";
   return 0;
 
 }
